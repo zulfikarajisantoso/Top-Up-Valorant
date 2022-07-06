@@ -1,0 +1,55 @@
+{
+    "fotobesar": [
+        {
+            "description": "Astra Valorant",
+            "foto": "assets/fotobesar/astravalorant.jpg"
+        },
+        {
+            "description": "Raze Valorant",
+            "foto": "assets/fotobesar/razevalorant.jpg"
+        },
+        {
+            "description": "Chamber Valorant",
+            "foto": "assets/fotobesar/chambervalorant.jpg"
+        },
+        {
+            "description": "Omred Valorant",
+            "foto": "assets/fotobesar/omredvalorant.jpg"
+        },
+        {
+            "description": "Summer Viper Valorant",
+            "foto": "assets/fotobesar/summerviperreynasage.jpg"
+        },
+        {
+            "description": "Yoru Valorant",
+            "foto": "assets/fotobesar/yoruvalorant.jpg"
+        }
+    ],
+    "fotokecil": [
+        {
+            "description": "Art Station",
+            "foto": "assets/fotokecil/artstation.jpg"
+        },
+        {
+            "description": "Raze Valorant",
+            "foto": "assets/fotokecil/neonvalo.jpg"
+        },
+        {
+            "description": "Chamber Valorant",
+            "foto": "assets/fotokecil/chamber.jpg"
+        },
+        {
+            "description": "Omred Valorant",
+            "foto": "assets/fotokecil/omengameart.jpg"
+        },
+        {
+            "description": "Summer Viper",
+            "foto": "assets/fotokecil/retrovalorant.jpg"
+        },
+        {
+            "description": "Yoru Valorant",
+            "foto": "assets/fotokecil/reyna.jpg"
+        }
+    ]
+
+}
